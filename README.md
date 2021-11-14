@@ -1,4 +1,4 @@
-# Security-System
+# Security System
 
 This security system makes use of Python's OpenCV library and it's various functions to detect people in it's field of view by their bodies, faces and eyes, and automatically start recording as soon as it detects something. 
 
